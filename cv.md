@@ -8,4 +8,8 @@
 4. Now i am at first step of studying javascript. 
 
 5. My graduation project https://fe.it-academy.by/Sites/0028664/index.html#firstpage
-
+6. 
+- finished course of **css and html** at IT academy
+- watching different online lessons in web-programming on Youtube
+- reading learn.javascript.ru
+7. Studied ***B1 level***.  Have english speaking foreign friends and often practice language with them.
