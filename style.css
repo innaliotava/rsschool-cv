@@ -1,0 +1,49 @@
+.frame { 
+    width: 600px;
+    margin: auto;
+    font-family: Times, serif;
+    border: solid black 3px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    border-radius: 20px;
+    width: 200px;
+    float: right;
+    margin: 10px;
+}
+
+.info{
+    padding: 10px;
+}
+
+strong {
+    color:red;
+}
+
+    
+b, 
+em, 
+a {
+    font-weight: bold;
+}
+
+em {
+    color:grey;
+}
+
+ul li {
+        list-style-type: none;
+}
+
+ul li:before {
+    content: "\279C";
+}
